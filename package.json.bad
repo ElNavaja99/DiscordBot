@@ -1,7 +1,7 @@
-﻿{
+{
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "Ein einfacher Discord Bot für Rollenchecks, Reaktionsauswertung und Willkommensnachrichten",
+  "description": "Ein einfacher Discord Bot f�r Rollenchecks, Reaktionsauswertung und Willkommensnachrichten",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
